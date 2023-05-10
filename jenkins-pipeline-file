@@ -1,5 +1,3 @@
-
-i
 groovy
 pipeline {
     agent any
